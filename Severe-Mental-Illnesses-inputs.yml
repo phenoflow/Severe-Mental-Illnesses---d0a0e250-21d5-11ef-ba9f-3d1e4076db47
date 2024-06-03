@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/severe-mental-illnesses-schiz---primary.py
+inputModule3:
+  class: File
+  path: python/severe-mental-illnesses-schizophrenialike---primary.py
+inputModule4:
+  class: File
+  path: python/xpersistent-severe-mental-illnesses---primary.py
+inputModule5:
+  class: File
+  path: python/severe-mental-illnesses-specified---primary.py
+inputModule6:
+  class: File
+  path: python/severe-mental-illnesses-xother---primary.py
+inputModule7:
+  class: File
+  path: python/severe-mental-illnesses-schizoph---primary.py
+inputModule8:
+  class: File
+  path: python/simple-severe-mental-illnesses---primary.py
+inputModule9:
+  class: File
+  path: python/paranoid-severe-mental-illnesses---primary.py
+inputModule10:
+  class: File
+  path: python/psychogenic-severe-mental-illnesses---primary.py
+inputModule11:
+  class: File
+  path: python/severe-mental-illnesses-psycho---primary.py
+inputModule12:
+  class: File
+  path: python/severe-mental-illnesses-paraphrenia---primary.py
+inputModule13:
+  class: File
+  path: python/severe-mental-illnesses-state---primary.py
+inputModule14:
+  class: File
+  path: python/severe-mental-illnesses-delusion---primary.py
+inputModule15:
+  class: File
+  path: python/hypomanic-severe-mental-illnesses---primary.py
+inputModule16:
+  class: File
+  path: python/severe-mental-illnesses-depressn---primary.py
+inputModule17:
+  class: File
+  path: python/severe-mental-illnesses-bipolaffectpart---primary.py
+inputModule18:
+  class: File
+  path: python/schizaffective-severe-mental-illnesses---primary.py
+inputModule19:
+  class: File
+  path: python/recurmanic-severe-mental-illnesses---primary.py
+inputModule20:
+  class: File
+  path: python/atypical-severe-mental-illnesses---primary.py
+inputModule21:
+  class: File
+  path: python/severe-mental-illnesses-hypomania---primary.py
+inputModule22:
+  class: File
+  path: python/reactive-severe-mental-illnesses---primary.py
+inputModule23:
+  class: File
+  path: python/severe-mental-illnesses---primary.py
+inputModule24:
+  class: File
+  path: python/early-severe-mental-illnesses---primary.py
+inputModule25:
+  class: File
+  path: python/severe-mental-illnesses-nonorgan---primary.py
+inputModule26:
+  class: File
+  path: python/severe-mental-illnesses-xacute---primary.py
+inputModule27:
+  class: File
+  path: python/manicdepressive-severe-mental-illnesses---primary.py
+inputModule28:
+  class: File
+  path: python/severe-mental-illnesses-recurr---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
